@@ -1,0 +1,55 @@
+html{
+    font-size: 12pt;
+    font-family: Arial;
+}
+
+h1{
+    color:#6666CC;
+}
+
+h2{
+    color:#9999FF;
+}
+
+.feitopor{
+    color:#808080;
+    font-family: 'Verdana';
+    font-size: 10pt;
+    font-weight: bold;
+    width: 170px;
+}
+
+.boldgalaxy{
+
+    font-weight: bold;
+}
+
+h3{
+    color:#6666CC;
+}
+
+.textos{
+
+    margin-top: 35px;
+}
+
+.imagemgalaxy{
+
+    float: left; 
+    width: 480px; 
+    height: 398px; 
+    padding: 10px;
+}
+
+
+a{
+
+    color: #FF0000;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.boldsnooze{
+    font-weight: bold;
+    font-style: italic;
+}
